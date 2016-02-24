@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/classes/HelloWorld.cls",
+			"settings":
+			{
+				"buffer_size": 211,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -45,7 +53,8 @@
 	"expanded_folders":
 	[
 		"/C/Users/Maurizio/Documents/GitHub/mauriziobella-vrut",
-		"/C/Users/Maurizio/Documents/GitHub/mauriziobella-vrut/src"
+		"/C/Users/Maurizio/Documents/GitHub/mauriziobella-vrut/src",
+		"/C/Users/Maurizio/Documents/GitHub/mauriziobella-vrut/src/classes"
 	],
 	"file_history":
 	[
@@ -84,8 +93,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/classes/HelloWorld.cls",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
