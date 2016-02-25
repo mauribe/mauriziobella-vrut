@@ -1,0 +1,6 @@
+<apex:page controller="VFFlow">
+<flow:interview name="FirstName" interview="{!myflow}" finishLocation="{!URLFOR('/home/home.jsp')}">
+<apex:param name="FirstName" value="{!vInput.company}"/>
+<apex:outputText value="Default Case Prioriy: {!casePriority}"/>
+</flow:interview>
+</apex:page>
