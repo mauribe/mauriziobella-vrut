@@ -5,6 +5,7 @@ global with sharing class AccountRemoter {
     @RemoteAction
     global static Account getAccount(String accountName) {
         account = [SELECT Id, Name, Phone, Type, NumberOfEmployees FROM Account WHERE Name = :accountName];
+        system.debug('test');
         return account;
     }
 }
