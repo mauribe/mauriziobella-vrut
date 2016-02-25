@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/classes/AccountRemoter.cls",
+			"settings":
+			{
+				"buffer_size": 434,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -15,22 +23,36 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 317.0,
-		"last_filter": "Package",
+		"height": 356.0,
+		"last_filter": "test",
 		"selected_items":
 		[
 			[
-				"Package",
+				"test",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"new project",
+				"MavensMate: New Project..."
+			],
+			[
+				"Package Control: Install Package",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 549.0
+		"width": 453.0
 	},
 	"console":
 	{
-		"height": 162.0,
+		"height": 126.0,
 		"history":
 		[
+			"Install Package",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package",
+			"help",
+			"Package Control: Install Package"
 		]
 	},
 	"distraction_free":
@@ -44,21 +66,125 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Maurizio/Documents/GitHub/mauriziobella-vrut",
-		"/C/Users/Maurizio/Documents/GitHub/mauriziobella-vrut/src",
-		"/C/Users/Maurizio/Documents/GitHub/mauriziobella-vrut/src/classes"
+		"/Users/mbella/workspace/mauriziobella-vrut",
+		"/Users/mbella/workspace/mauriziobella-vrut/src",
+		"/Users/mbella/workspace/mauriziobella-vrut/src/classes"
 	],
 	"file_history":
 	[
-		"/C/Users/Maurizio/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings"
+		"/Users/mbella/workspace/mauriziobella-vrut/src/classes/HelloWorld.cls",
+		"/Users/mbella/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/mbella/Downloads/CustomSamlJitHandler.cls",
+		"/Users/mbella/Downloads/SOQL SOSL.txt",
+		"/Users/mbella/Downloads/Objective DEVII",
+		"/Users/mbella/Downloads/apex-07Lc000001MLhTFEA1.log",
+		"/Users/mbella/Downloads/apex-07Lc000001MLhDfEAL.log",
+		"/Users/mbella/Documents/SFDC ANT/build.xml",
+		"/Users/mbella/Documents/SFDC ANT/build.properties",
+		"/Users/mbella/Google Drive/debuglogLuis",
+		"/Users/mbella/Downloads/SetupAuditTrail1455920270631.csv",
+		"/Users/mbella/Documents/SulAmerica Live Agent",
+		"/Users/mbella/Downloads/VisualforcePage.html",
+		"/Users/mbella/Downloads/VisualforcePage2.html",
+		"/Users/mbella/Downloads/VFRemoteObject.js",
+		"/Users/mbella/Downloads/Controller.java",
+		"/Users/mbella/Downloads/triggerOwner",
+		"/Users/mbella/Downloads/XmetaDataToExcel",
+		"/Users/mbella/Downloads/styles/styles.css",
+		"/Users/mbella/Downloads/styles.css",
+		"/Users/mbella/Downloads/Visualforce01.css",
+		"/Users/mbella/Google Drive/TMP",
+		"/Volumes/public/Media/Videos/Sherlock Holmes/Season 3/Sherlock - 3x03 - His Last Vow.HDTV.FoV.en.srt",
+		"/Volumes/public/Media/Videos/The Town/TheTown.srt",
+		"/Volumes/public/Media/Videos/The Town EXTENDED (2010)/TheTown.srt",
+		"/Users/mbella/Documents/SFDC Heroku/SpringMVC/spring-mvc-fulfillment-base/src/main/java/com/force/example/fulfillment/order/controller/CanvasUIController.java",
+		"/Users/mbella/Documents/SFDC Implementation/Service Cloud Live Agent/liveagent mauridev2015.html",
+		"/Users/mbella/Downloads/gsx.la3-c1cs-chi.salesforceliveagent.com.har",
+		"/Users/mbella/Downloads/mauridev2015-dev-ed.my.salesforce.com.har",
+		"/Users/mbella/Desktop/liveagent.html",
+		"/Users/mbella/Downloads/q20x.la1-c1-lon.salesforceliveagent.com.har",
+		"/Users/mbella/Documents/SFDC Heroku/SpringMVC/spring-mvc-fulfillment-base/src/main/webapp/WEB-INF/views/order.jsp",
+		"/Users/mbella/Documents/SFDC Heroku/SpringMVC/spring-mvc-fulfillment-base/src/main/java/com/force/example/fulfillment/HomeController.java",
+		"/Users/mbella/Documents/Bootcamp.txt",
+		"/Users/mbella/Documents/SFDC Heroku/SpringMVC/spring-mvc-fulfillment-base/src/main/java/com/force/example/fulfillment/order/controller/OrderController.java",
+		"/Users/mbella/Downloads/SulAmerica - 20160121.txt",
+		"/Users/mbella/Downloads/V2MOM",
+		"/Users/mbella/Downloads/ip2geo.asmx.xml",
+		"/Users/mbella/Downloads/SF SOAPUI example projects/SF SOAP Example-soapui-project.xml",
+		"/Users/mbella/Downloads/ParseTest",
+		"/Users/mbella/Downloads/task.csv",
+		"/Users/mbella/Documents/SFDC DataLoader/success011916015705909.csv",
+		"/Users/mbella/Documents/SFDC University/20151220 DEV401/DEV401/M18_AdditionalVisualforcePagesExerciseFiles/Solutions/18-5--PositionPartialPageUpdate.txt",
+		"/Users/mbella/Documents/SFDC University/20151220 DEV401/DEV401/M18_AdditionalVisualforcePagesExerciseFiles/Exercises/18-5--PositionPartialPageUpdate.txt",
+		"/Users/mbella/Downloads/bulkQuery_result_750240000022CPFAA2_75124000002Ofa6AAC_75224000000kcOS.csv",
+		"/Users/mbella/Downloads/bulkQuery_result_75015000002iTi8AAE_7511500000423zWAAQ_75215000000vuvb.csv",
+		"/Users/mbella/Documents/forcecomlogin.txt",
+		"/Users/mbella/Downloads/Account.csv",
+		"/Users/mbella/Downloads/sfdc_login.java",
+		"/Users/mbella/Downloads/class01.cls",
+		"/Users/mbella/Downloads/Analytics Trailhead Dataflow.json",
+		"/Users/mbella/Downloads/ParkService.xml",
+		"/Users/mbella/Downloads/JSON2Apex (1)/JSON2Apex.apxc",
+		"/Applications/SoapUI-5.2.1.app/Contents/vmoptions.txt",
+		"/Applications/SoapUI-5.2.1.app/Contents/java/app/bin/soapui.sh",
+		"/Users/mbella/Downloads/JSON2Apex/JSON2Apex.apxc",
+		"/Users/mbella/Downloads/JSON2Apex/JSON2Apex_Test.apxc",
+		"/Users/mbella/Google Drive/BEST PRACTICE.txt",
+		"/Users/mbella/Google Drive/CFL Customers/MercadoLibre/MercadoLibre",
+		"/Users/mbella/Documents/MercadoLibre",
+		"/Users/mbella/Google Drive/Workbench.txt",
+		"/Users/mbella/Documents/Splunk/SPLUNK General Info.txt",
+		"/Users/mbella/Documents/Splunk/Splunk_Queries_Updated.txt",
+		"/Users/mbella/Google Drive/Slunk Record Locks.txt",
+		"/Users/mbella/Downloads/Report.txt",
+		"/Users/mbella/Documents/SetupAuditTrail1448473107331.csv",
+		"/Users/mbella/Downloads/changeset.csv",
+		"/Users/mbella/Downloads/trigger.csv",
+		"/Users/mbella/Downloads/select",
+		"/Users/mbella/Downloads/entrypoint.csv",
+		"/Users/mbella/Downloads/contacts_to_import.csv",
+		"/Users/mbella/Google Drive/MercadoLibre",
+		"/Users/mbella/Documents/Splunk/logging-format.xml.190.txt",
+		"/Users/mbella/Downloads/simple-salesforce-0.68.1/simple_salesforce/login.py",
+		"/Users/mbella/login.txt",
+		"/Users/mbella/Documents/MELI/Case creation Manually logs/apex-07LF000004pdytRMAQ.log",
+		"/Users/mbella/Downloads/simple-salesforce-0.68.1/setup.cfg",
+		"/Users/mbella/Downloads/lkinf.csv",
+		"/Users/mbella/Downloads/lkinf30d.csv",
+		"/Users/mbella/Downloads/PhysicalDeleteRunManager30d.csv",
+		"/Users/mbella/Downloads/apex-07LM0000014BUZ7MAO_Decorate.log",
+		"/Users/mbella/Documents/Splunk/Change Set.txt",
+		"/Users/mbella/Documents/Splunk/SOQL:Report:List view tuning.txt",
+		"/Users/mbella/Downloads/Analysis Log Developer Console.txt",
+		"/Users/mbella/Documents/MELI/Case creation Manually logs/apex-07LF000004pdysYMAQ.log",
+		"/Users/mbella/Downloads/MELI Json Create Case.txt",
+		"/Users/mbella/Downloads/apex-07LM0000014BUZ7MAO.log",
+		"/Users/mbella/Downloads/apex-07LM0000014BUZ2MAO.log",
+		"/Users/mbella/Downloads/apex-07LM0000014BRT6MAO.log",
+		"/Users/mbella/Documents/MELI/Case creation logs/apex-07LF000004pdysYMAQ.log",
+		"/Users/mbella/Documents/MELI/NA10Traces 20151126/NADB10-2_ora_19455_171654622_00DA00000009oNU_0046KOr_.trc",
+		"/Users/mbella/trigger.txt",
+		"/Users/mbella/Google Drive/Lightning Components.txt",
+		"/Users/mbella/Google Drive/Lightning Components Example.html",
+		"/Users/mbella/Downloads/NA10Traces/NADB10-2_ora_683_170318022_00DA00000009oNU_0046KOr_.trc",
+		"/Users/mbella/Downloads/logging-format.xml.190.txt",
+		"/Users/mbella/Downloads/apex-07LF000004pdyOOMAY.log",
+		"/Users/mbella/Documents/apex-07LF000004pdyMwMAI.webarchive",
+		"/Users/mbella/Documents/Splunk/SPLUNK General Query.txt",
+		"/Users/mbella/Documents/SPLUNK General Query.txt",
+		"/Users/mbella/Documents/Org Sizing Tool.splunk",
+		"/Users/mbella/Downloads/CASE MELI Trace Performance.txt",
+		"/Users/mbella/Google Drive/PortalClaimsRestApi.java",
+		"/Users/mbella/workspace/PersonalMauridev/src/classes/mbUtils.cls",
+		"/Users/mbella/workspace/PersonalMauridev/src/classes/MavensApexClass.cls"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 		]
@@ -68,6 +194,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"remote",
+			"DML",
+			"update",
+			"Line: 5, Column: 1\nSystem.DmlException: Update failed. First exception on row 0 with id 500c0000006KLgWAAW; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, Este perfil no tiene permisos para modificar el caso en el estado actual.: Caso estandar: []",
+			"ERROR",
+			"FAIL",
+			"validation",
+			"VRCS028Prevent_Change_Status",
+			"DMLEx",
+			"label",
+			".get",
+			"saveit",
+			"class17Component",
+			"remoting",
+			"fetchAccount",
+			"status",
+			"future",
+			"AsyncApexJob",
+			"object",
+			"setting",
+			"database.",
+			"leadId",
+			"Purchase",
+			"01Qc0000000Db45",
+			"01Qc0000000DYgp",
+			"005",
+			"posible",
+			"WF_ACTION_TASK",
+			"En proceso Nivel 1",
+			"En proceso Nivel 2",
+			"CasoForce_updated_to_EnprocesoNivel2_Single_AreaEC",
+			"WF_FLOW_ACTION_DETAIL",
+			"01Qc0000000DZlM",
+			"EMAIL_QUEUE",
+			"FLOW_START_INTERVIEWS_BEGIN",
+			"FLOW_START_INTERVIEW_BEGIN",
+			"FLOW_ELEMENT_BEGIN",
+			"WF_ACTION_TASK",
+			"WF_EMAIL_SENT",
+			"email",
+			"salesforce.com",
+			"01Qc0000000DZlb",
+			"LEVEL323234",
+			"01Vc000000005GA",
+			"destruc",
+			"destructiveChan",
+			"destructiveChanges",
+			"listMetadata",
+			"toLabel",
+			"apex:actionPoller",
+			"remoteObjects",
+			"out",
+			"myStatus",
+			"actionfun",
+			"component.",
+			"$Resource[",
+			"!$Resource[",
+			"[",
+			"attribute",
+			"include",
+			"owner",
+			"Page.",
+			"<apex:repeat",
+			"getter",
+			"ApexPages.addMessages(e);",
+			"addMessages",
+			"addError",
+			"addMessages",
+			"data",
+			"pageBlockTabl",
+			"<apex:dataList",
+			"support",
+			"apex:actionFunction",
+			"list",
+			"apex:action",
+			"apex:param",
+			"$CurrentPage.parameters",
+			"relatedList",
+			"tabindex",
+			">",
+			"tabindex",
+			"$Component",
+			"Component",
+			"actionFunction>",
+			"selectOptions",
+			"system.debug('set');",
+			"set",
+			"setCon",
+			"uc.",
+			"cast",
+			"sobject",
+			"139",
+			"5001",
+			"2869",
+			"029a12d5-429d-469b-8b55-8bea9073a5c9",
+			"681a04b9-803a-4b72-9b7c-417c798f15bb",
+			"cf4b4265-8d3b-4c08-9c8c-e4fb06a53607",
+			"X-LIVEAGENT-SESSION-KEY",
+			"7fd12055-612f-45a3-925a-b200d67c3bd2",
+			"Values",
+			"metri",
+			"vision",
+			"check",
+			"https://org62.my.salesforce.com/a4V300000008Qxx?fId=0D53000002MNq5c&s1oid=00D000000000062&OpenCommentForEdit=1&emkind=chatterCommentNotification&s1nid=000000000000000&emtm=1453829973525&s1uid=0053000000C7uBj&s1ext=0&fromEmail=1",
+			"inputHttpHeader",
+			"inputHttpHeaders",
+			"skills",
+			"bc",
+			"\\\"",
+			"gentInt",
+			"EchoStringResponse_element",
+			"parameters",
+			"public",
+			"leadId",
+			"++",
+			"Database.SaveResult",
+			"OrgPartitionController",
+			"AsyncApexJob",
+			"sObject",
+			"schema",
+			"select",
+			"phoneNumber",
+			"system.debug",
+			"contactList",
+			"contact-list",
+			"parkservice",
+			"testCreateCase",
+			"-Dsoapui.browser.disabled"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -75,6 +329,13 @@
 		"regex": false,
 		"replace_history":
 		[
+			"StageName",
+			"opportunity.stage",
+			"",
+			"/",
+			"\":\"",
+			"}",
+			"{"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -85,18 +346,47 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/classes/AccountRemoter.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -123,7 +413,7 @@
 	"menu_visible": true,
 	"output.MavensMate-OutputPanel":
 	{
-		"height": 130.0
+		"height": 100.0
 	},
 	"output.find_results":
 	{
@@ -133,7 +423,7 @@
 	"project": "mauriziobella-vrut.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -171,7 +461,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 335.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
